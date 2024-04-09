@@ -8,5 +8,9 @@
 <p>1.git clone</p>
 <p>npm run dev or npm run build and start</p>
 <hr>
-<h2>Data format returned from db is JSON </h2>
-<hr>
+<h3>Project Preview</h3>
+<br>
+
+```
+http://foodie-app-smoky.vercel.app
+```
